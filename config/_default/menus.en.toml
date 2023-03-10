@@ -21,21 +21,14 @@
   weight = 20
 
 [[main]]
-  name = "Resume"
-  pageRef = "resume"
+  name = "Notes"
+  pageRef = "notes"
   weight = 30
 
 [[main]]
-  name = "Projects"
-  pageRef = "projects"
+  name = "Resume"
+  pageRef = "resume"
   weight = 40
-
-[[main]]
-  identifier="honor"
-  #pre = "music"
-  name = "Honor"
-  pageRef = "honor"
-  weight = 50
 
 #[[main]]
 #  name = "Recs"
