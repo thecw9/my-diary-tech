@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thecw9.github.io/my-diary-tech/sitemap.xml
