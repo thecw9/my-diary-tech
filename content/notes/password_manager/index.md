@@ -1,11 +1,11 @@
 ---
-title: "Password Manager"
-summary: "Password management is crucial for protecting personal privacy and assets in the digital age. It involves using strong and unique passwords to secure online accounts and devices, and utilizing secure password management tools to store and manage them. Effective password management reduces the risk of account theft, information leakage, and identity theft."
+title: "P6c9ca65c-c65c-11ed-afa1-0242ac120002"
+summary: "7bc5c4ce-c65c-11ed-afa1-0242ac1200028124e990-c65c-11ed-afa1-0242ac120002"
 categories: ["Product"]
 tags: ["roles","career","organization"]
 # externalUrl: ""
 showSummary: true
-date: 2023-03-05
+date: 2023-03-19
 draft: false
 showauthor: false
 authors:
@@ -14,25 +14,4 @@ authors:
 # series\_order: 1
 ---
 
-## Password
-<table>
-    <thead>
-        <tr>
-            <th>Website</th>
-            <th>Password</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>GitHub</td>
-            <td>zuowen</td>
-        </tr>
-    </tbody>
-    <tbody>
-        <tr>
-            <td>GitHub</td>
-            <td>zuowen</td>
-        </tr>
-    </tbody>
-</table>
-
+g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g

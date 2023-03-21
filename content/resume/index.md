@@ -49,7 +49,7 @@ layoutBackgroundHeaderSpace: false
     </thead>
     <tbody>
         <tr>
-            <td rowspan=2><img class="customEntitityLogo" src="hbs.svg"/></td>
+            <td rowspan=2><img class="customEntitityLogo" src="logo.jpeg"/></td>
             <td rowspan=2><a href="https://online.hbs.edu/" target="_blank">长沙理工大学</a></td>
             <td>动力工程及过程热物理</td>
             <td>2022-2025</td>
@@ -57,7 +57,7 @@ layoutBackgroundHeaderSpace: false
     </tbody>
     <tbody>
         <tr>
-            <td rowspan=2><img class="customEntitityLogo" src="hbs.svg"/></td>
+            <td rowspan=2><img class="customEntitityLogo" src="logo.jpeg"/></td>
             <td rowspan=2><a href="https://online.hbs.edu/" target="_blank">长沙理工大学</a></td>
             <td>新能源科学与工程</td>
             <td>2018-2022</td>

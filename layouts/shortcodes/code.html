@@ -1,0 +1,6 @@
+{{ with .Get "file" }}
+{{ $path := printf "%s/%s" (path.Join "static" "code") . }}
+{{ with (readFile $path) }}
+<pre><code>{{ . | safeHTML }}</code></pre>
+{{ end }}
+{{ end }}

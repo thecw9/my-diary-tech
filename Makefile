@@ -12,6 +12,10 @@ help:
 	@echo "make deploy_docs"
 	@echo "    deploy the docs to server"
 
+.PHONY: build
+build:
+	hugo server
+
 .PHONY: deploy
 deploy:
 	bash deploy.sh

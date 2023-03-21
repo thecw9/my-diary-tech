@@ -73,8 +73,8 @@
    pageRef = "authors"
    weight = 30
 
- #[[footer]]
- #  name = "Suggestions"
- #  pageRef = "suggestions"
- #  weight = 30
+ [[footer]]
+  name = "Suggestions"
+  pageRef = "suggestions"
+  weight = 30
 

@@ -14,6 +14,10 @@ authors:
 # series\_order: 1
 ---
 
+## 搜索工具
+- [ChatGPT](https://chat.openai.com/): ChatGPT是一个大型语言模型，可以与人类进行自然语言交互并回答各种问题。[工作原理](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+- [Phind](https://www.phind.com/): AI 驱动的搜索引擎，可提供更快、更准确的搜索结果。
+
 ## 下载工具
 
 - [Sci-Hub](https://sci-hub.se/): Elbakyan 女神向你挥手，旨在打破知识壁垒的革命性网站。
