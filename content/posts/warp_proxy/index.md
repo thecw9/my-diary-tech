@@ -32,15 +32,31 @@ ChatGPT可能在某些地区或网络中受到限制，例如学校、企业或�
 
 ## 如何使用Cloudflare Warp代理？
 
-这里是官方安装教程: [https://developers.cloudflare.com/warp-client/get-started/linux/](https://developers.cloudflare.com/warp-client/get-started/linux/)
 
 使用Cloudflare Warp代理非常简单，只需要按照以下步骤操作：
+
+### 方式一：官方安装方法
+
+这里是官方安装教程: [https://developers.cloudflare.com/warp-client/get-started/linux/](https://developers.cloudflare.com/warp-client/get-started/linux/)
 
 1. 在你的 VPS 安装好Cloudflare Warp.
 2. 注册WARP：````warp-cli register````
 3. 设置为代理模式（一定要先设置）：````warp-cli set-mode proxy````
 4. 连接WARP：````warp-cli connect````
 5. 查询代理后的IP地址：````curl ifconfig.me --proxy socks5://127.0.0.1:40000````
-6. 配置xray分流：
+
+### 方式二：[一键安装脚本](https://github.com/P3TERX/warp.sh)
+
+```
+bash <(curl -fsSL git.io/warp.sh) proxy
+```
+
+## 配置xray分流：
+### 安装[x-ui](https://github.com/vaxilu/x-ui)
+x-ui一键安装脚本：
+```
+bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+```
+### 配置x-ui分流
 
 {{< code file="xray.json" >}}

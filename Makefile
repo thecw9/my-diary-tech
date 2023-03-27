@@ -7,7 +7,7 @@ PYTEST = pytest
 # makefile targets
 .PHONY: help 
 help:
-	@echo "make docs"
+	@echo "make build"
 	@echo "    run the mkdocs server"
 	@echo "make deploy_docs"
 	@echo "    deploy the docs to server"
